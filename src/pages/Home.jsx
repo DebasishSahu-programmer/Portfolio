@@ -4,6 +4,7 @@ import { FiArrowRight, FiDownload } from 'react-icons/fi'
 import photo from '../assets/profile.jpg'
 import { links, profile, projects } from '../data.js'
 
+
 const openRoles = ['Software Engineer', 'Associate Software Engineer', 'Software Developer', 'Full-Stack Developer']
 
 export default function Home() {
